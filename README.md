@@ -22,15 +22,15 @@ This repository contains my solutions for the various Advent of Code challenges.
 
 1. Clone the repository:
 
-```git clone https://github.com/viziergr/Advent-of-Code.git```
+```  git clone https://github.com/viziergr/Advent-of-Code.git```
 
 2. Navigate to the repository directory:
 
-```cd Advent-of-Code```
+```  cd Advent-of-Code```
 
 3. Open Jupyter Notebook:
 
-```jupyter notebook```
+```  jupyter notebook```
 
 4. Open the notebook for the specific day you are interested in.
 
