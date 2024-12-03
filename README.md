@@ -11,8 +11,8 @@ This repository contains my solutions for the various Advent of Code challenges.
 
 ## Usage
 
-1 - View Solutions: Navigate to the specific year and day folder to view the detailed solutions in the Jupyter Notebook.
-2 - Run Notebooks: You can run the Jupyter Notebooks locally to see the solutions in action. Ensure you have Jupyter installed.
+1. View Solutions: Navigate to the specific year and day folder to view the detailed solutions in the Jupyter Notebook.
+2. Run Notebooks: You can run the Jupyter Notebooks locally to see the solutions in action. Ensure you have Jupyter installed.
 
 ## Prerequisites
  - Python 3.x
@@ -20,19 +20,19 @@ This repository contains my solutions for the various Advent of Code challenges.
  
 ## How to Run
 
-1 - Clone the repository:
+1. Clone the repository:
 
 ```git clone https://github.com/viziergr/Advent-of-Code.git```
 
-2 - Navigate to the repository directory:
+2. Navigate to the repository directory:
 
 ```cd Advent-of-Code```
 
-3 - Open Jupyter Notebook:
+3. Open Jupyter Notebook:
 
 ```jupyter notebook```
 
-4 - Open the notebook for the specific day you are interested in.
+4. Open the notebook for the specific day you are interested in.
 
 ## Contributing
 
